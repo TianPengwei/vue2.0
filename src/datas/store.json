@@ -1,0 +1,182 @@
+﻿{
+    "status" : 0,
+    "msg" : "请求成功",
+    "list" : [
+        {
+            "name" : "北京烤鸭111",
+            "logo" : "../../assets/component/store/1.jpg",
+            "stars" : 3,
+            "express" : "哈哈",
+            "sales" : "4.6 月售1874单",
+            "charge" : "￥0起送 | 配送费￥9",
+            "label" : "口碑人气好店",
+            "distance" : "616m | 44分",
+            "activities" : [
+                {
+                    "type" : 0,
+                    "des" : "新用户下单立减10元"
+                }
+            ]
+        },
+        {
+            "name" : "gogogo",
+            "logo" : "../../assets/component/store/1.jpg",
+            "stars" : 3,
+            "express" : "",
+            "sales" : "4.6 月售1874单",
+            "charge" : "￥0起送 | 配送费￥9",
+            "label" : "口碑人气好店",
+            "distance" : "616m | 44分",
+            "activities" : [
+                {
+                    "type" : 0,
+                    "des" : "新用户下单立减10元"
+                }
+            ]
+        },
+        {
+            "name" : "gogogo",
+            "logo" : "../../assets/component/store/1.jpg",
+            "stars" : 3,
+            "express" : "",
+            "sales" : "4.6 月售1874单",
+            "charge" : "￥0起送 | 配送费￥9",
+            "label" : "口碑人气好店",
+            "distance" : "616m | 44分",
+            "activities" : [
+                {
+                    "type" : 0,
+                    "des" : "新用户下单立减10元"
+                }
+            ]
+        },
+        {
+            "name" : "gogogo",
+            "logo" : "../../assets/component/store/1.jpg",
+            "stars" : 3,
+            "express" : "",
+            "sales" : "4.6 月售1874单",
+            "charge" : "￥0起送 | 配送费￥9",
+            "label" : "口碑人气好店",
+            "distance" : "616m | 44分",
+            "activities" : [
+                {
+                    "type" : 0,
+                    "des" : "新用户下单立减10元"
+                }
+            ]
+        },
+        {
+            "name" : "gogogo",
+            "logo" : "../../assets/component/store/1.jpg",
+            "stars" : 3,
+            "express" : "",
+            "sales" : "4.6 月售1874单",
+            "charge" : "￥0起送 | 配送费￥9",
+            "label" : "口碑人气好店",
+            "distance" : "616m | 44分",
+            "activities" : [
+                {
+                    "type" : 0,
+                    "des" : "新用户下单立减10元"
+                }
+            ]
+        },
+        {
+            "name" : "gogogo",
+            "logo" : "../../assets/component/store/1.jpg",
+            "stars" : 3,
+            "express" : "",
+            "sales" : "4.6 月售1874单",
+            "charge" : "￥0起送 | 配送费￥9",
+            "label" : "口碑人气好店",
+            "distance" : "616m | 44分",
+            "activities" : [
+                {
+                    "type" : 0,
+                    "des" : "新用户下单立减10元"
+                }
+            ]
+        },
+        {
+            "name" : "gogogo",
+            "logo" : "../../assets/component/store/1.jpg",
+            "stars" : 3,
+            "express" : "",
+            "sales" : "4.6 月售1874单",
+            "charge" : "10块钱起送",
+            "label" : "口碑人气好店",
+            "distance" : "616m | 44分",
+            "activities" : [
+                {
+                    "type" : 0,
+                    "des" : "vip送菊花茶"
+                }
+            ]
+        },
+        {
+            "name" : "gogogo",
+            "logo" : "../../assets/component/store/1.jpg",
+            "stars" : 3,
+            "express" : "",
+            "sales" : "4.6 月售1874单",
+            "charge" : "￥0起送 | 配送费￥9",
+            "label" : "口碑人气好店",
+            "distance" : "616m | 44分",
+            "activities" : [
+                {
+                    "type" : 0,
+                    "des" : "新用户下单立减10元"
+                }
+            ]
+        },
+        {
+            "name" : "gogogo",
+            "logo" : "../../assets/component/store/1.jpg",
+            "stars" : 3,
+            "express" : "",
+            "sales" : "4.6 月售1874单",
+            "charge" : "￥0起送 | 配送费￥9",
+            "label" : "口碑人气好店",
+            "distance" : "616m | 44分",
+            "activities" : [
+                {
+                    "type" : 0,
+                    "des" : "vip送菊花茶"
+                }
+            ]
+        },
+        {
+            "name" : "北京烤鸭2222",
+            "logo" : "../../assets/component/store/1.jpg",
+            "stars" : 3,
+            "express" : "老板专送",
+            "sales" : "4.6 月售1874单",
+            "charge" : "￥0起送 | 配送费￥9",
+            "label" : "口碑人气好店",
+            "distance" : "616m | 44分",
+            "activities" : [
+                {
+                    "type" : 0,
+                    "des" : "vip送菊花茶"
+                },
+                {
+                    "type" : 0,
+                    "des" : "vip送菊花茶"
+                },
+                {
+                    "type" : 0,
+                    "des" : "vip送菊花茶"
+                },
+                {
+                    "type" : 0,
+                    "des" : "vip送菊花茶"
+                },
+                {
+                    "type" : 0,
+                    "des" : "vip送菊花茶11111"
+                }
+            ]
+        }
+    ]
+}
